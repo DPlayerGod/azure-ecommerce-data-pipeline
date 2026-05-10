@@ -1,0 +1,14 @@
+*.csv
+.venv 
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+
